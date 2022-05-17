@@ -32,7 +32,7 @@ CREATE TABLE dept_emp (
 
 -- titles salaries (4)
 CREATE TABLE salaries (
-  emp_no VARCHAR,
+  emp_no PRIMARY KEY VARCHAR,
   salary int
 );
 
