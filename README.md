@@ -69,10 +69,14 @@ As you examine the data, you begin to suspect that the dataset is fake. Maybe yo
 
 ## Submission
 
-* Create an image file of your ERD. --- ERD.png
-* Create a `.sql` file of your table schemata. --- employee_db.sql
-* Create a `.sql` file of your queries.--- employee_query.sql
-* (Optional) Create a Jupyter notebook of the bonus analysis.---bonus_analysis.ipynb
+* Create an image file of your ERD. 
+--- ERD.png
+* Create a `.sql` file of your table schemata. 
+--- employee_db.sql
+* Create a `.sql` file of your queries.
+--- employee_query.sql
+* (Optional) Create a Jupyter notebook of the bonus analysis.
+---bonus_analysis.ipynb
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 * Ensure your repository has regular commits and a thorough README.md file
